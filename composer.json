@@ -1,0 +1,22 @@
+{
+    "name": "zhangjiajing/yiwei-model",
+    "description": "first-try",
+	"keywords":["yii", "yii2", "extension", "try"],
+	"homepage":"https://github.com/zhangjiajing/yiwei-model",
+    "type": "yii2-extension",
+    "license": "BSD 3-Clause",
+	"authors":[
+		{
+			"name": "zhangjiajing",
+			"email": "838891990@qq.com",
+		}
+	],
+    "minimum-stability": "dev",
+    "require": {},
+	"autoload": {
+		"psr-4": {
+			"vendor\\yiwei-model": ""
+		}
+	}
+	
+}
